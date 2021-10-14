@@ -29,6 +29,7 @@ public class Sample {
 		System.out.println(substring);
 		int compareTo = s.compareTo(s2);
 		System.out.println(compareTo);
+		System.out.println("");
 
 }
 }
